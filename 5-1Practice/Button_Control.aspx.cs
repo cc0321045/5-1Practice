@@ -15,7 +15,7 @@ namespace _5_1Practice {
 
         protected void btn_Sub_Click(object sender, EventArgs e)
         {
-            lb_Txt.Text = "這是個按鈕觸發Label標籤動作"
+            lb_Txt.Text = "這是個按鈕觸發Label標籤動作";
 
 
 
